@@ -1,4 +1,6 @@
-# r7000 梅林 koolshare Xray plugin
+﻿# r7000 梅林 koolshare Xray plugin
+
+中文 | [English](README.en.md)
 
 基于 koolshare **fancyss（科学上网）4.0.5** 的修改版，适用于 Netgear R7000 等 ARM 梅林（Merlin）/ koolshare 固件。
 将原 V2Ray 3.x/4.x 内核替换为 **Xray-core**，使 V2Ray 一侧支持最新协议与传输方式。
